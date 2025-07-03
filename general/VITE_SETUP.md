@@ -67,6 +67,8 @@ export default defineConfig({
 @import 'tailwindcss';
 ```
 
+**Note**: Do not add any other styles to this file. Only the import statement.
+
 **src/main.tsx** - Add import:
 
 ```ts
